@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>श्रीमाधवीयश्रीशङ्करदिग्विजयसारः</dc:title>
+		<dc:language>sa</dc:language>
+		<dc:identifier id="isbn">urn:isbn:9789389887419</dc:identifier>
+		<dc:description>This is a short biography of Jagadguru Sri Adi Shankaracharya compiled using 214 verses from an ancient work, Sri Madhaviya Shankara Digvijaya (also known as Samkshepa-Sankara-Vijaya) authored by sage Sri Vidyaranya, the 12th Jagadguru of the Śringeri Śarada Pītham from 1380-1386. The text includes an English translation of the verses. The selection of the 214 verses (from the original collection of 1843 verses) has been done by Vidwan G. Mahabaleshwara Bhat, Asthana Vidwan of Sringeri Sri Sharadapeetham.#Shankaracharya</dc:description>
+		
+		<dc:creator id="author1">Compilation</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Sriranga Digital Software Technologies Pvt. Ltd.</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2020-06-02T16:08:28Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-preface_xhtml" href="000d-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-B_ttf" href="css/SHREE0850-B.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-BI_ttf" href="css/SHREE0850-BI.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-I_ttf" href="css/SHREE0850-I.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850_ttf" href="css/SHREE0850.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Sanskrit2003_ttf" href="css/Sanskrit2003.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_siddhanta_ttf" href="css/siddhanta.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-images_img_01_jpg" href="images/img_01.jpg" media-type="image/jpeg" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
+		<itemref idref="id-000d-preface_xhtml" linear="yes" />
+		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
+
+	</spine>
+</package>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>विष्णुसहस्रनामस्तोत्रम्</dc:title>
+		<dc:language>sa</dc:language>
+		<dc:identifier id="isbn">urn:isbn:</dc:identifier>
+		
+		<dc:creator id="author1">Compilation</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Sriranga Digital Software Technologies Pvt. Ltd.</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2020-05-19T15:27:53Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-B_ttf" href="css/SHREE0850-B.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-BI_ttf" href="css/SHREE0850-BI.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850-I_ttf" href="css/SHREE0850-I.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_SHREE0850_ttf" href="css/SHREE0850.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_Sanskrit2003_ttf" href="css/Sanskrit2003.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_siddhanta_ttf" href="css/siddhanta.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
+
+	</spine>
+</package>

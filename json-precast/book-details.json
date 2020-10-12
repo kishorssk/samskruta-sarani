@@ -35,6 +35,18 @@
             "publisher": "Sriranga Digital Software Technologies Pvt. Ltd.",
             "page": "71",
             "description": ""
+        },
+        "004": {
+            "language": "sa",
+            "identifier": "ebooks/004",
+            "isbn": "",
+            "title": "अद्वैतमकरन्दः",
+            "creators": {
+                "author": "Compilation"
+            },
+            "publisher": "Sriranga Digital Software Technologies Pvt. Ltd.",
+            "page": "56",
+            "description": ""
         }
     }
 }

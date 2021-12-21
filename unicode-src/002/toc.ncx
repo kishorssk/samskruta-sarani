@@ -3,14 +3,14 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:"/>
+      <meta name="dtb:uid" content="urn:isbn:978-93-91408-43-5"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
 
    <docTitle>
-      <text>ललितात्रिशतीभाष्यम्</text>
+      <text>श्रीमच्छंकरभगवत्पूज्यपादैः विरचितम् | ललितात्रिशतीभाष्यम्</text>
    </docTitle>
 
    <navMap>
@@ -22,7 +22,7 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ललितात्रिशतीभाष्यम् – </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>श्रीमच्छंकरभगवत्पूज्यपादैः विरचितम्ललितात्रिशतीभाष्यम्  – </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>नामानुक्रमणिका – </text></navLabel><content src="002-wordindex.xhtml#id-002"/>

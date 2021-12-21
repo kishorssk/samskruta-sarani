@@ -22,7 +22,10 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>विष्णुसहस्रनामस्तोत्रम् – </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>श्रीमच्छंकरभगवत्पूज्यपादैः विरचितम् | विष्णुसहस्रनामस्तोत्रम् – </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>नामानुक्रमणिका – </text></navLabel><content src="002-wordindex.xhtml#id-002"/>
 </navPoint>
    </navMap>
 </ncx>

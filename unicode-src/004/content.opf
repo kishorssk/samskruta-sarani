@@ -19,11 +19,12 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2021-12-03T11:46:44Z</meta>
+		<meta property="dcterms:modified">2021-12-26T14:29:41Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_SHREE0850-B_ttf" href="css/SHREE0850-B.ttf" media-type="application/vnd.ms-opentype" />
@@ -34,6 +35,7 @@
 		<item id="id-css_siddhanta_ttf" href="css/siddhanta.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
 		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-images_coverold_jpg" href="images/coverold.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
@@ -41,6 +43,7 @@
 	<spine toc="id-toc_ncx">
 		<itemref idref="id-000a-title_xhtml" linear="yes" />
 		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
 		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
 
 	</spine>

@@ -22,6 +22,9 @@
 <navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>INTRODUCTION – </text></navLabel><content src="000c-preface.xhtml#id-000c"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>अद्वैतमकरन्दः – </text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
    </navMap>
